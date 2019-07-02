@@ -2,11 +2,15 @@
     "torneos": [
       {
         "id": 1,
-        "nombre": "Copa America"
+        "nombre": "Copa America",
+        "descripcion": "Descripcion de la copa america",
+        "imagen": "../../assets/img/logo-penca.jpg"
       },
       {
         "id": 2,
-        "nombre": "Copa Confederaciones"
+        "nombre": "Copa Confederaciones",
+        "descripcion": "Descripcion de la copa confederaciones",
+        "imagen": "../../assets/img/logo-penca.jpg"
       }
     ]
 }

@@ -1,0 +1,12 @@
+{
+    "torneos": [
+      {
+        "id": 1,
+        "nombre": "Copa America"
+      },
+      {
+        "id": 2,
+        "nombre": "Copa Confederaciones"
+      }
+    ]
+}

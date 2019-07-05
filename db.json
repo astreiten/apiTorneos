@@ -12,5 +12,50 @@
         "descripcion": "Descripcion de la copa confederaciones",
         "imagen": "../../assets/img/logo-penca.jpg"
       }
+    ],
+    "partidos" :[
+      {
+        "id":1,
+        "versus": [1,2],
+        "resultado": [0,0],
+        "fecha": "05-05-20",
+        "hora": "21:00"
+      },
+      {
+        "id":2,
+        "versus": [3,4],
+        "resultado": [1,2],
+        "fecha": "06-05-20",
+        "hora": "20:30"
+      }
+    ],
+    "equipos": [
+      {
+        "id":1,
+        "nombre": "Argentina",
+        "bandera":"Link de la bandera"
+      },
+      {
+        "id":2,
+        "nombre": "Nigeria",
+        "bandera":"Link de la bandera"
+      },
+      {
+        "id":3,
+        "nombre": "Inglaterra",
+        "bandera":"Link de la bandera"
+      },
+      {
+        "id":4,
+        "nombre": "Alemania",
+        "bandera":"Link de la bandera"
+      }
+    ],
+    "grupos": [
+      {
+        "nombre":"Grupo A",
+        "id":"1",
+        "equipos" : [1,2,3,4]
+      }
     ]
 }
